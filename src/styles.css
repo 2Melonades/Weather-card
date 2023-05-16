@@ -1,0 +1,68 @@
+form {
+  padding-bottom: 45px;
+  position: relative;
+  width: 100%;
+}
+
+p {
+  margin: 0;
+}
+
+input {
+  width: 100%;
+  height: 40px;
+  border-radius: 6px;
+  border-width: 0;
+}
+
+img.logo {
+  padding-bottom: 35px;
+}
+
+img.icon {
+  width: 30px;
+  margin: 15px 0;
+}
+
+input.city {
+  background-color: #e8ebee;
+  color: #767c8c;
+}
+
+input.button {
+  background-color: #9553ff;
+  color: white;
+}
+
+div.main {
+  display: block;
+  margin: 100px auto;
+  width: 50%;
+  border: 2px solid rgba(112, 128, 144, 0.248);
+  padding: 40px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+div.weather {
+  padding: 60px 5px 30px;
+  text-align: center;
+}
+
+h1.temp.main {
+  font: 900;
+  font-size: 60px;
+}
+
+div.red {
+  font-size: 13px;
+}
+
+div.col {
+  color: slategray;
+  font-size: 13px;
+}
+
+.red {
+  color: rgb(255, 37, 88);
+}
